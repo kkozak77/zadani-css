@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+    
+}
+
+/* Selektor Znacznika */
+h2 {
+    color:white;
+    font-size: 2,3em;
+    margin: 18px;
+}
+
+.square1 {
+    background-color: orange;
+    margin: 24px;
+    width: 200px;
+    height: 200px;
+}
+
+.square2 {
+    background-color: orange;
+    margin: 24px;
+    width: 200px;
+    height: 200px;
+}
+
+.square3 {
+    background-color: orange;
+    margin: 24px;
+    width: 200px;
+    height: 200px;
+}
+
+.square4 {
+    background-color: orange;
+    margin: 24px;
+    width: 200px;
+    height: 200px;
+}
