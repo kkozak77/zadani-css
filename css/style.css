@@ -1,6 +1,3 @@
-
-
-/* Selektor Znacznika */
 h1 {
     color: blue;
     text-align: center
@@ -9,10 +6,3 @@ P {
     text-align: center }
 
     
-
-.square1 {
-    background-color: orange;
-    margin: 24px;
-    width: 200px;
-    height: 200px;
-}
